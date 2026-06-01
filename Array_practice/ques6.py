@@ -12,7 +12,7 @@ print(count)
 
 #Count negative numbers
 #use running sum pattern
-arr2=[1,15,-16,-1,19]
+arr2=[1,15,-16,-1,14]
 count=0
 for x in arr2:
   if x<=0:
