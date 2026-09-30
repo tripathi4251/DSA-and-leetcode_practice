@@ -1,5 +1,5 @@
 #Find average
-#uswe running sum pattern
+#use running sum pattern
 
 
 arr1=[5,9,8,10,12]
